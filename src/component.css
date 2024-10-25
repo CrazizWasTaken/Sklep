@@ -1,0 +1,20 @@
+.nazwa{
+    width: fit-content;
+    border: 2px solid black;
+    float: left;
+    margin-right: 5px;
+}
+.nazwa img{
+    width: 250px;
+    height: 250px;
+}
+.tytul{
+    color: white;
+    background-color: green;
+    font-family: "Times New Roman", Times, serif;
+}
+.cena{
+    font: bold;
+    font-family: "Times New Roman", Times, serif;
+    float: right;
+}
